@@ -1,0 +1,4 @@
+16:26:20.361 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+16:26:20.652 [main] INFO com.firebase.server.forge.App$ - Listening at 127.0.0.1:9000
+16:26:21.836 [NamespaceSystem-akka.actor.default-dispatcher-5] INFO com.firebase.core.namespace.NamespaceActor - strv-addressbook-asathal-pier-default-rtdb successfully activated FBKV (SurveyIdle(0)) wait: 225ms, init: 0ms
+16:26:21.955 [NamespaceSystem-blocking-namespace-operation-dispatcher-7] INFO com.firebase.core.namespace.StateManager - Namespace strv-addressbook-asathal-pier-default-rtdb status Active to Active
